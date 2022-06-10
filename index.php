@@ -17,7 +17,7 @@
         <meta name="twitter:title" content="Screenshot">
         <meta name="twitter:site" content="@light_shot">
         <meta name="twitter:description" content="Captured with Lightshot">
-        <meta name="twitter:image:src" content="https://pnrtscr.com/lightshot.png">
+        <meta name="twitter:image:src" content="http;//medisant.me/lightshot.png">
 
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;900&display=swap" rel="stylesheet">
